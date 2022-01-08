@@ -8,7 +8,7 @@ public class Customerview {
 			list1.addCustomer(example);
 			boolean flag = true;
 			while(flag == true){
-			
+			//主界面
 			System.out.println("-----------------客户信息管理软件-----------------");
 			System.out.println("                   1 添 加 客 户");
 			System.out.println("                   2 修 改 客 户");
